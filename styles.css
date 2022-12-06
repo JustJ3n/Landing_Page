@@ -69,3 +69,8 @@ footer {
     font-size:14px;
     color:white;
 }
+
+img {
+    max-width: 20%;  
+    height: auto;  
+}
